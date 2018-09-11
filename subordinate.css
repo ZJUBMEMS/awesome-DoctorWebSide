@@ -1,0 +1,30 @@
+/* CSS Document */
+*{margin: 0px}
+#contain{width: 968px;height: 1100px;background-color:#;margin-left: auto;margin-right: auto;text-align: center;font-size: 30px}
+#head{width:900px;height:150px;background-color:#FAFAFA;margin-left: auto;margin-right: auto;text-align: center;font-size: 12px;border-style: solid;border-color: #686868;border-width: 1px}
+#head_top{width:900px;height:100px;background-color:#5D61B0;margin-left: auto;margin-right: auto;text-align: center;font-size: 36px;line-height: 100px}
+
+#body{width:900px;height:485px;background-color:#FAFAFA;margin-top: 5px; margin-left: auto;margin-right: auto;text-align: center;font-size: 12px;border-style: solid;border-color: #686868;border-width: 1px}
+.info{width:900px;height:100px;background-color:#FAFAFA;margin-top: 5px; text-align:left;font-weight: bold;margin-left:auto;margin-right: auto;font-size:  12px;border-style: solid;border-color: #686868;border-width: 1px;}
+.help{width:900px;height:100px;background-color:#FAFAFA;margin-top: 5px; text-align:left;font-weight: bold;margin-left: auto;margin-right: auto; font-size: 12px;border-style: solid;border-color: #686868;border-width: 1px; }
+.diagnoseinfo{width:900px;height:150px;background-color:#FAFAFA;margin-top: 5px;font-weight: bold; margin-left: auto;margin-right: auto;text-align:left;font-size: 12px;border-style: solid;border-color: #686868;border-width: 1px}
+#reply{width:895px;height:125px;text-align: left;word-wrap: break-word;}
+#plus_info{font-weight: normal;}
+#expect_help{font-weight: normal;}
+#diagnose{font-weight: normal;}
+#submit{width:100px;height:35px;background-color:#5D61B0;margin-top: 5px; margin-left: auto;margin-right: auto;text-align:center;font-size: 22px;color: aliceblue;border-radius:20px}
+
+
+
+
+.photo{width:200px;height:220px;background-color: #FFFFFF ;margin-left:20px;margin-top: 15px;float:left}
+
+.basic_info1{width: 150px;height: 50px;color:#000000;text-align: center;line-height: 50px;font-size: 12px;float: left;}
+
+.photo_title{width:200px;height: 20px;text-align: center;line-height:20px}
+.photo_info{width:200px;height: 200px; background-color: #73926B;text-align: center;float: left}
+.photo_info_img{height: 100%;width: 100%}
+
+
+
+

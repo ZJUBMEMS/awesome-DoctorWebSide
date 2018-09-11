@@ -1,0 +1,11 @@
+/* CSS Document */
+*{margin: 0px}
+#dentist_page{width: 968px;height: 800px;background-color:#F0C995;margin-left: auto;margin-right: auto;text-align: center}
+#head{width: 968px;height: 100px;background-color:#F7F1F1;margin-left: auto;margin-right: auto; text-align: center;font-size: 30px}
+#body{width: 900px;height: 500px;background-color:#857D7D;margin-left: auto;margin-right: auto;margin-top: 10px; text-align: center;font-size: 30px}
+#bottom{width: 900px;height: 180px;background-color:#857D7D;margin-left: auto;margin-right: auto;margin-top:10px ;text-align: center;font-size: 30px}
+
+.patient_info1{width:280px;height: 25px;margin-left: 15px; background-color: #A29F99;line-height: 20px;font-size: 12px;color:#000000;line-height: 25px;text-align:center;float: left}
+
+.patient_info1 a{color: aliceblue; text-decoration: none}
+.patient_info1 a:hover{font-weight: bold}
