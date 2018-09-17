@@ -1,16 +1,16 @@
 # awesome-DoctorWebSide
 
-### Introduction
+## Introduction
 
 Awesome-DoctorWebSide is born for dentist, developed for efficient working. It is deployed on the Tencent Cloud Server,  and is connected to the database which is deployed on the LeanCloud Server.
 
 
 
-### Features
+## Features
 
 - **Design for website**: dentists can diagnose the illness and send the diagnosis message back to the database.
 
-### Usage
+## Usage
 
 If you want to apply this project into your project, just replace the leancloud id and put the file into your website.
 
@@ -33,7 +33,7 @@ Where yourappid and yourappkey are replaced by your leancloud app_id and your le
 
 
 
-### Technique Support
+## Technique Support
 
 - **jQuery**
 
